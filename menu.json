@@ -1,0 +1,111 @@
+{
+"apps": [
+
+{
+"name": "Cheese Sticks",
+"description": "Our famous mozzarella sticks with a side of tangy marinara",
+"price":"$4.99"
+
+},
+{
+"name": "Nachos",
+"description": "Crispy tortilla chips served with cheese sauce and your choice of the following:",
+"options": ["Sliced Jalapenos", "Carne Asada", "Sour Cream"],
+"price":"$6.99"
+
+},
+{
+"name": "Enchilada Soup",
+"description": "A bowl of spicy soup ",
+"price":"$5.49"
+
+}
+
+
+],
+
+"entrees": [
+
+    {
+        "name": "Tacos",
+        "type": "taco",
+        "price": "12.99",
+        "description": "Flour or corn tortillas filled with your favorite meat. Choose Mexican Style(cilantro, onions, hot sauce) or American Style(lettuce, cheese, sour cream)",
+        "options": ["Carne Asada (Steak)", "Pollo Asado (Chicken)", "Al Pastor (Marinated Pork w/ Pineapple", "Barbacoa (Mexican style BBQ)"],
+        "spicy": false ,
+        "vegetarian": false  
+    },
+    {
+        "name": "Fish Tacos",
+        "type": "fish",
+        "price": "12.99",
+        "description": "Grilled or Fried Tilapia with our very own mango salsa",
+        "spicy": false ,
+        "vegetarian": false  
+    },
+    {
+        "name": "Burritos",
+        "type": "burrito",
+        "price": "$8.99",
+        "description": "Your choice of Steak or Chicken along with beans and rice",
+        "spicy": false ,
+        "vegetarian": false  
+    }
+
+],
+
+"sides": [
+
+
+],
+
+"reviews": [
+
+    {
+        "text": "I like chicken",
+        "author": "David Scruggs"
+    },
+    {
+        "text": "I want to go to the park",
+        "author": "Olivia Scruggs"
+    },
+    {
+        "text": "I love chicken",
+        "author": "Faith Cash"
+    },
+    {
+        "text": "i don't care about anything but my butthole",
+        "author": "Noah Smith"
+    },
+    {
+        "text": "they sell monkeys",
+        "author": "David Scruggs"
+    },
+    {
+        "text": "I like beetles",
+        "author": "David Scruggs"
+    },
+    {
+        "text": "I want to go to the moon",
+        "author": "Olivia Scruggs"
+    },
+    {
+        "text": "I love girls",
+        "author": "Faith Cash"
+    },
+    {
+        "text": "i don't care about anything but my xbox",
+        "author": "Noah Smith"
+    },
+    {
+        "text": "they sell tacos",
+        "author": "David Scruggs"
+    }
+
+    
+]
+
+
+
+
+}
